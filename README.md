@@ -1,4 +1,4 @@
 ## Welcome To My Profile
-- Owner of **Syphon Network**❤️
-- Join @ *syphon.cc*
+- System Admin / Head Dev of **Amber Network**❤️
+- Join @ *amber.rip*
 
