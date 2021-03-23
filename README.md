@@ -1,6 +1,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ItsEatHam&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
 <hr>
 
+## Known Languages
+
 <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="175">
 <hr>
 
