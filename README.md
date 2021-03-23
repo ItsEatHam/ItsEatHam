@@ -15,4 +15,5 @@
 
 ### Current Endeavours:
 
-- <img src="https://img.icons8.com/color/344/rgb-circle-1--v1.png" width=20> I’m currently developing Amber Networks PotPvP Core.
+- I’m currently developing Amber Network's PotPvP Core.
+- Looking for Staff and Possible Developers (discord.amber.rip)
