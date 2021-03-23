@@ -7,7 +7,7 @@
 
 ## Contact Me
 
-<img src="https://img.shields.io/badge/itseatham@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="itseatham@gmail.com"> <img src="https://img.shields.io/badge/Ham%234321-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" >
+<img src="https://img.shields.io/badge/itseatham@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="itseatham@gmail.com"> <img src="https://img.shields.io/badge/Ham%231010-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" >
 
 <hr>
 
