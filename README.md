@@ -16,5 +16,5 @@
 ### Current Endeavours:
 ```
 - I’m currently developing Amber Network's PotPvP Core.
-- Looking for Staff and Possible Developers (discord.amber.rip)
+- Looking for Staff and Possible Developers (discord.amber.online)
 ```
